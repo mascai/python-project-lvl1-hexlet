@@ -1,10 +1,8 @@
 # 0 Usage
 - ``` pip install --user --extra-index-url  https://test.pypi.org/simple/ mascai-brain-games ```
-- Input ```brain-calc```
-- Enjoy the game
+- Enjoy the games
 
-[![asciicast](https://asciinema.org/a/LawHLYmcOdExLAEhhFQGw1wJ9.svg)](https://asciinema.org/a/LawHLYmcOdExLAEhhFQGw1wJ9)
-
+[![asciicast](https://asciinema.org/a/yFKN0SjkgUmR7htHeiRWDMCvJ.svg)](https://asciinema.org/a/yFKN0SjkgUmR7htHeiRWDMCvJ)
 
 # 1 Initial poetry
 
