@@ -1,6 +1,15 @@
-# 1
+# 0 Usage
+- ``` pip install --user --extra-index-url  https://test.pypi.org/simple/ mascai-brain-games ```
+- Input ```brain-calc```
+- Enjoy the game
 
-# 2 Installation
+[![asciicast](https://asciinema.org/a/LawHLYmcOdExLAEhhFQGw1wJ9.svg)](https://asciinema.org/a/LawHLYmcOdExLAEhhFQGw1wJ9)
+
+
+# 1 Initial poetry
+
+
+# 2 Publication
 poetry build
 
 poetry config repositories.test_repo https://test.pypi.org/legacy
