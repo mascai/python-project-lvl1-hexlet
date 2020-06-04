@@ -12,6 +12,6 @@ check:
 
 build:
 	check
-	 @poetry build
+	@poetry build
 
 .PHONY: install test lint selfcheck check build
