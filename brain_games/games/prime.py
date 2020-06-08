@@ -10,6 +10,8 @@ def is_prime(num):
             if (num % i) == 0:
                 return False
         return True
+    else:
+        return False
 
 
 def get_question_and_answer():

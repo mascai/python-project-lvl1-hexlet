@@ -11,7 +11,5 @@ def is_even(n):
 def get_question_and_answer():
     n = randint(0, 1000)
     question = str(n)
-    answer = "yes"
-    if not is_even(n):
-        answer = "no"
+    answer = "yes" if is_even(n) else "no"
     return question, answer

@@ -1,7 +1,7 @@
 import prompt
 
 
-TOTAL_GAMES = 3
+GAMES_COUNT = 3
 
 
 def welcome_user():
@@ -21,7 +21,7 @@ def run_game(game):
     print(game.start_text)
     user = get_users_name()
     user_result = 0
-    while user_result < TOTAL_GAMES:
+    while user_result < GAMES_COUNT:
         question, ideal_answer = game.get_question_and_answer()
 
         print("Question: {}".format(question))
